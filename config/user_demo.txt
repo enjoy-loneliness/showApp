@@ -1,0 +1,12 @@
+📺央视频道,#genre#
+饭太硬,http://www.饭太硬.com/tv
+饭太硬（备用）,http://fan.xxooo.cf/tv
+小米,http://xhww.fun/小米/DEMO.json
+肥猫,http://肥猫.live
+菜妮丝,https://tvbox.cainisi.cf
+南风,https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
+骚零,https://100km.top/0
+天天开心,http://tv.rihou.cc/天天开心
+荷城茶秀,http://rihou.cc:88/荷城茶秀
+短剧频道,https://agit.ai/hu/hcr/raw/branch/master/短剧.json
+少儿频道,https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer
