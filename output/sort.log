@@ -8,8 +8,8 @@ Name: 骚零, URL: https://100km.top/0, Date: None, Delay: -1 ms, Speed: 0.00 M/
 Name: 天天开心, URL: http://tv.rihou.cc/天天开心, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 荷城茶秀, URL: http://rihou.cc:88/荷城茶秀, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 短剧频道, URL: https://agit.ai/hu/hcr/raw/branch/master/短剧.json, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 少儿频道, URL: https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer, Date: None, Delay: 61 ms, Speed: 0.86 M/s, Resolution: 120x128
-Name: 少儿频道, URL: http://120.55.49.231:3095/rtp/233.50.201.20:5140$浙江电信组播源, Date: 2024-03-02, Delay: 228 ms, Speed: 0.00 M/s, Resolution: None
+Name: 少儿频道, URL: https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer, Date: None, Delay: 22 ms, Speed: 2.46 M/s, Resolution: 120x128
+Name: 少儿频道, URL: http://120.55.49.231:3095/rtp/233.50.201.20:5140$浙江电信组播源, Date: 2024-03-02, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 少儿频道, URL: http://122.233.169.85:8888/rtp/233.50.201.20:5140$浙江电信组播源, Date: 2025-01-05, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 少儿频道, URL: http://115.230.248.208:9999/rtp/233.50.201.20:5140$浙江电信组播源, Date: 2024-12-16, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 少儿频道, URL: http://60.178.151.11:4022/rtp/233.50.201.20:5140$浙江电信组播源, Date: 2024-12-29, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
