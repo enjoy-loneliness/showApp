@@ -1,5 +1,6 @@
 🕘️更新时间,#genre#
-2025-03-02 06:11:01,https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer
+2025-03-08 18:13:56,https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer
 
 📺央视频道,#genre#
 少儿频道,https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer
+少儿频道,http://120.55.49.231:3095/rtp/233.50.201.20:5140
