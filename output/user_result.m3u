@@ -1,7 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="饭太硬" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/饭太硬.png" group-title="🕘️更新时间",2025-03-08 18:13:56
+#EXTINF:-1 tvg-name="饭太硬" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/饭太硬.png" group-title="🕘️更新时间",2025-03-09 06:10:09
 https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer
 #EXTINF:-1 tvg-name="少儿频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/少儿频道.png" group-title="📺央视频道",少儿频道
 https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer
-#EXTINF:-1 tvg-name="少儿频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/少儿频道.png" group-title="📺央视频道",少儿频道
-http://120.55.49.231:3095/rtp/233.50.201.20:5140
